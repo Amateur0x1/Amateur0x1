@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner with animated gradient -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=200&section=header&text=Amateur0x1&fontSize=60&fontColor=58a6ff&fontAlignY=35&desc=Philosopher%20%E2%86%92%20Economist%20%E2%86%92%20Engineer&descColor=8b949e&descAlignY=55&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=200&section=header&text=Amateur0x1&fontSize=60&fontColor=58a6ff&fontAlignY=35&desc=Philosophy%20%E2%86%92%20Economics%20%E2%86%92%20Engineer&descColor=8b949e&descAlignY=55&animation=fadeIn" />
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
@@ -17,7 +17,7 @@
 ```text
 ┌──────────────────────────────────────────────────────────────────┐
 │                                                                  │
-│   Philosophy → Economics → Software Engineering                  │
+│   Philosophy  →  Economics  →  Software Engineering              │
 │                                                                  │
 │   🎓  经济学硕士 · 地方债 & 官员晋升锦标赛                         │
 │   💻  前端工程师 · React / React Native / TypeScript              │
