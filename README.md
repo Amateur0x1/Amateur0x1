@@ -5,7 +5,7 @@
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%E5%93%B2%E5%AD%A6+%C2%B7+%E7%BB%8F%E6%B5%8E%E5%AD%A6+%C2%B7+%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B;Breaking+barriers+between+disciplines;%E2%80%9CThe+weapon+of+criticism+cannot+replace+the+criticism+of+weapons.%E2%80%9D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%E5%93%B2%E5%AD%A6+%C2%B7+%E7%BB%8F%E6%B5%8E%E5%AD%A6+%C2%B7+%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B;Breaking+barriers+between+disciplines" alt="Typing SVG" />
 </a>
 
 </div>
@@ -22,8 +22,6 @@
 │   🎓  经济学硕士 · 地方债 & 官员晋升锦标赛                         │
 │   💻  前端工程师 · React / React Native / TypeScript              │
 │   📖  技术哲学 & 现象学 · 维特根斯坦 · 语言游戏                    │
-│                                                                  │
-│   "批判的武器当然不能代替武器的批判。"                               │
 │                                                                  │
 └──────────────────────────────────────────────────────────────────┘
 ```
@@ -67,15 +65,6 @@
 ---
 
 <div align="center">
-
-<!-- Snake animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Amateur0x1/Amateur0x1/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Amateur0x1/Amateur0x1/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Amateur0x1/Amateur0x1/output/github-snake-dark.svg" />
-</picture>
-
----
 
 <img src="https://komarev.com/ghpvc/?username=Amateur0x1&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS" />
 
