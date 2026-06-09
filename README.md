@@ -47,41 +47,12 @@
 
 ---
 
-### 🔭 Featured Projects
+### 🔭 Projects
 
-<div align="center">
-
-<a href="https://github.com/Amateur0x1/epiphany">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Amateur0x1&repo=epiphany&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/Amateur0x1/Akademos">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Amateur0x1&repo=Akademos&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=c9d1d9" />
-</a>
-
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Amateur0x1&show_icons=true&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amateur0x1&layout=compact&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
-
-</div>
-
-<div align="center">
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Amateur0x1&theme=github-dark-blue&border=30363d&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
-
-</div>
-
----
-
-### 🌊 Contribution Graph
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Amateur0x1&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area_color=161b22&area=true&hide_border=true" />
+| | |
+|---|---|
+| [📜 **Epiphany**](https://github.com/Amateur0x1/epiphany) | 跨学科开源期刊，探索人文社科与计算机科学的交叉地带 |
+| [🏛️ **Akademos**](https://github.com/Amateur0x1/Akademos) | 计算机领域的个人研究笔记与教程输出 |
 
 ---
 
