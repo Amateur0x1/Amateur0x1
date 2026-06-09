@@ -52,7 +52,6 @@
 | | |
 |---|---|
 | [📜 **Epiphany**](https://github.com/Amateur0x1/epiphany) | 跨学科开源期刊，探索人文社科与计算机科学的交叉地带 |
-| [🏛️ **Akademos**](https://github.com/Amateur0x1/Akademos) | 计算机领域的个人研究笔记与教程输出 |
 
 ---
 
