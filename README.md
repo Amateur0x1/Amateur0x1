@@ -22,7 +22,6 @@
 │   🎓  经济学硕士 · 地方债 & 官员晋升锦标赛                         │
 │   💻  前端工程师 · React / React Native / TypeScript              │
 │   📖  技术哲学 & 现象学 · 维特根斯坦 · 语言游戏                    │
-│   ✍️  开源期刊 Epiphany 主编                                      │
 │                                                                  │
 │   "批判的武器当然不能代替武器的批判。"                               │
 │                                                                  │
@@ -83,18 +82,6 @@
 ### 🌊 Contribution Graph
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Amateur0x1&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area_color=161b22&area=true&hide_border=true" />
-
----
-
-### 📚 Epiphany · 开源期刊
-
-> *打破学科壁垒，让技术真正融入文化。*
-
-**Epiphany** 是一本跨学科开源期刊，探索人文社科与计算机科学的交叉地带。欢迎通过 PR 和 Issue 参与协作。
-
-- 📄 首篇文稿：[《追问思维机器中的"语言游戏"》](https://github.com/Amateur0x1/epiphany)
-- 🤝 协作方式：Git PR / Issue — 突破传统编辑与作者的关系
-- 🎯 收录方向：打破学科壁垒、让技术融入文化的文章
 
 ---
 
