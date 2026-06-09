@@ -61,9 +61,6 @@
 ┌─────────────────────────────────────────────────────┐
 │  Wittgenstein    ──→  Language Games in AI          │
 │  Phenomenology   ──→  Technology Philosophy         │
-│  Marx            ──→  Criticism of Weapons          │
-│  Game Theory     ──→  Tournament Theory             │
-│  Public Finance  ──→  Local Government Debt         │
 └─────────────────────────────────────────────────────┘
 ```
 
