@@ -1,76 +1,58 @@
 <div align="center">
 
-<!-- Header Banner with animated gradient -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=200&section=header&text=Amateur0x1&fontSize=60&fontColor=58a6ff&fontAlignY=35&desc=Philosophy%20%E2%86%92%20Economics%20%E2%86%92%20Engineer&descColor=8b949e&descAlignY=55&animation=fadeIn" />
+# Hi, I'm Amateur0x1 👋
 
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%E5%93%B2%E5%AD%A6+%C2%B7+%E7%BB%8F%E6%B5%8E%E5%AD%A6+%C2%B7+%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B;Breaking+barriers+between+disciplines" alt="Typing SVG" />
-</a>
+**哲学 → 经济学 → 软件工程**  
+Philosophy · Economics · Software Engineering
+
+用代码构建工具，也用跨学科的视角理解技术。
+
+[精选项目](#精选项目) · [技术栈](#技术栈) · [研究与兴趣](#研究与兴趣)
 
 </div>
 
 ---
 
-### `$ whoami`
+### 关于我
 
-```text
-┌──────────────────────────────────────────────────────────────────┐
-│                                                                  │
-│   Philosophy  →  Economics  →  Software Engineering              │
-│                                                                  │
-│   🎓  经济学硕士 · 地方债 & 官员晋升锦标赛                         │
-│   💻  前端工程师 · React / React Native / TypeScript              │
-│   📖  技术哲学 & 现象学 · 维特根斯坦 · 语言游戏                    │
-│                                                                  │
-└──────────────────────────────────────────────────────────────────┘
-```
+我是一名前端工程师，也是一名经济学硕士。从哲学、经济学走向软件工程，我始终关心：不同学科的思考方式，能如何帮助我们理解问题、构建工具？
+
+- **工程实践**：使用 React、React Native 与 TypeScript 构建 Web 和移动端应用。
+- **经济学研究**：关注地方债与官员晋升锦标赛。
+- **哲学兴趣**：关注维特根斯坦、语言游戏、现象学与技术哲学。
+
+### 精选项目
+
+#### [Epiphany ↗](https://github.com/Amateur0x1/epiphany)
+
+跨学科开源期刊，探索人文社科与计算机科学的交叉地带。把对不同学科的好奇，汇聚到同一个开放空间。
+
+#### [Akademos ↗](https://github.com/Amateur0x1/Akademos)
+
+自学成果的整理与汇集，记录学习过程中积累的知识与探索。
+
+[浏览全部仓库 →](https://github.com/Amateur0x1?tab=repositories)
+
+### 技术栈
+
+**Web & Mobile**  
+TypeScript · JavaScript · React · React Native
+
+**基础与工具**  
+HTML · CSS · Node.js · Git
+
+### 研究与兴趣
+
+- **语言游戏 × AI**：从维特根斯坦的视角思考语言、意义与 AI。
+- **现象学 × 技术哲学**：关注技术如何介入经验，以及人与技术的关系。
+- **经济学 × 制度**：围绕地方债与官员晋升锦标赛，理解激励与制度。
 
 ---
 
-### ⚡ Tech Stack
+> 学科的壁垒造成了双方的损失——不一定是物质上的，更多的是视角和思维上的。
 
 <div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<sub>保持好奇，在学科之间寻找新的视角。</sub>
 
 </div>
-
----
-
-### 🔭 Projects
-
-| | |
-|---|---|
-| [📜 **Epiphany**](https://github.com/Amateur0x1/epiphany) | 跨学科开源期刊，探索人文社科与计算机科学的交叉地带 |
-
----
-
-### 🧠 Philosophy & Interests
-
-```
-┌─────────────────────────────────────────────────────┐
-│  Wittgenstein    ──→  Language Games in AI          │
-│  Phenomenology   ──→  Technology Philosophy         │
-└─────────────────────────────────────────────────────┘
-```
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Amateur0x1&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS" />
-
-*"学科的壁垒造成了双方的损失——不一定是物质上的，更多的是视角和思维上的。"*
-
-</div>
-
-<!-- Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=120&section=footer" />
